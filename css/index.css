@@ -1,0 +1,89 @@
+body{
+    font-family: url("../font/Klavika-LightCondensed.woff"),Arial ,sans-serif;
+}
+.div-nav{
+    height: 90px;
+    line-height: 75px;
+}
+#amd-nav{
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 50px;
+}
+#amd-nav img{
+    width: 25px;
+    height: auto;
+}
+.nav-up{
+    text-decoration: none;
+    margin-left: 50px;
+    font: 20px;
+    line-height: 75px;
+    margin: 0 auto 0 auto;
+}
+.nav-up i {
+    font-size: 20px;
+}
+#globe{
+    margin-left: 50px;
+}
+
+/* end-navbar -------------------------------------------------------------------------------- */
+
+.div-row1{
+    height: 391px;
+    position: relative;
+}
+.div-row1 img{
+    position: absolute;
+    z-index: -1;
+    
+}
+.div-row1-div{
+    width: 566px;
+    height: 291px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 630px;
+    bottom: 50px;
+    padding: 30px 20px;
+    text-align: left;
+    line-height: normal;
+    /* font-weight: 500; */
+}
+.div-row1-div h2{
+    font-weight: 600;
+}
+.div-row1-div h2 span{
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 40px;
+    animation: blinking 0.9s infinite;
+}
+@keyframes blinking {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+.a-Mehr-erfahren{
+    width: 200px;
+    height: 46px;
+    /* margin-left: 10px; */
+    margin-top: 50px
+    
+}
+.a-Mehr-erfahren a{
+    line-height: 46px;
+    margin-left: 35px;
+    text-decoration: none;
+    font-weight: 700;
+    width: 200px;
+}
+.div-row1-div div a:hover .a-Mehr-erfahren{
+    border:1px solid black;
+    background-color: rgba(255,255,255,0.25);
+} 
