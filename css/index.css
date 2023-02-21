@@ -87,3 +87,31 @@ body{
     border:1px solid black;
     background-color: rgba(255,255,255,0.25);
 } 
+
+/* end-img-row1 -------------------------------------------------------------------------------- */
+
+.col-4 img{
+    width: 370px;
+    margin-top: 70px;
+}
+.col-4 h2 {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: url("../font/Klavika-LightCondensed.woff"),Arial ,sans-serif;
+}
+.col-4 a{
+    text-decoration: none;
+    font-size: 14px;
+
+}
+
+.col-4 p{
+    font-size: 14px;
+}
+
+.col-4 div{
+    width: 200px;
+    height: 46px;
+    margin-top: 40px;
+}
+
