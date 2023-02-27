@@ -1,46 +1,54 @@
-body{
-    font-family: url("../font/Klavika-LightCondensed.woff"),Arial ,sans-serif;
+body {
+    font-family: url("../font/Klavika-LightCondensed.woff"), Arial, sans-serif;
 }
-.div-nav{
+
+.div-nav {
     height: 90px;
     line-height: 75px;
 }
-#amd-nav{
+
+#amd-nav {
     font-size: 30px;
     font-weight: 600;
     text-decoration: none;
     margin-left: 50px;
 }
-#amd-nav img{
+
+#amd-nav img {
     width: 25px;
     height: auto;
 }
-.nav-up{
+
+.nav-up {
     text-decoration: none;
     margin-left: 50px;
     font: 20px;
     line-height: 75px;
     margin: 0 auto 0 auto;
 }
+
 .nav-up i {
     font-size: 20px;
 }
-#globe{
+
+#globe {
     margin-left: 50px;
 }
 
 /* end-navbar -------------------------------------------------------------------------------- */
 
-.div-row1{
+.div-row1 {
     height: 391px;
     position: relative;
 }
-.div-row1 img{
+
+.div-row1 img {
     position: absolute;
     z-index: -1;
-    
+
 }
-.div-row1-div{
+
+.div-row1-div {
     width: 566px;
     height: 291px;
     position: absolute;
@@ -52,70 +60,78 @@ body{
     line-height: normal;
     /* font-weight: 500; */
 }
-.div-row1-div h2{
+
+.div-row1-div h2 {
     font-weight: 600;
 }
-.div-row1-div h2 span{
+
+.div-row1-div h2 span {
     font-size: 30px;
     font-weight: 900;
     line-height: 40px;
     animation: blinking 0.9s infinite;
 }
+
 @keyframes blinking {
     0% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
 }
-.a-Mehr-erfahren{
+
+.a-Mehr-erfahren {
     width: 200px;
     height: 46px;
     /* margin-left: 10px; */
     margin-top: 50px
-    
 }
-.a-Mehr-erfahren a{
+
+.a-Mehr-erfahren a {
     line-height: 46px;
     margin-left: 35px;
     text-decoration: none;
     font-weight: 700;
     width: 200px;
 }
-.div-row1-div div a:hover .a-Mehr-erfahren{
-    border:1px solid black;
-    background-color: rgba(255,255,255,0.25);
-} 
+
+.div-row1-div div:hover {
+    border: 1px solid black !important;
+    background-color: #c8c9ca49 !important;
+}
 
 /* end-img-row1 -------------------------------------------------------------------------------- */
 
-.col-4 img{
+.col-4 img {
     width: 370px;
     margin-top: 70px;
 }
+
 .col-4 h2 {
     font-size: 24px;
     font-weight: 700;
-    font-family: url("../font/Klavika-LightCondensed.woff"),Arial ,sans-serif;
+    font-family: url("../font/Klavika-LightCondensed.woff"), Arial, sans-serif;
 }
-.col-4 a{
+
+.col-4 a {
     text-decoration: none;
     font-size: 14px;
 
 }
 
-.col-4 p{
+.col-4 p {
     font-size: 14px;
 }
 
-.col-4 div{
+.col-4 div {
     width: 200px;
     height: 46px;
     margin-top: 40px;
 }
 
-.sub-a-1{
+.sub-a-1 {
     font-size: 20px;
     font-weight: 700;
     line-height: 46px;
@@ -126,39 +142,56 @@ body{
     color: #626971;
 }
 
-.box:hover{
+.box:hover {
     background-color: black;
 }
-.box:hover .sub-a-1{
+
+.box:hover .sub-a-1 {
     color: white !important;
 }
-.box-red-1{
+
+.box-red-1 {
     width: 253px !important;
     height: 48px !important;
-    background-color: rgb(221,0,49) ;
+    background-color: rgb(221, 0, 49);
 }
-.box-red-1 a{
+
+.box-red-1 a {
     line-height: 48px;
     font-size: 16px;
     font-weight: 700;
 }
-.box-red-1 i{
+
+.box-red-1 i {
     font-size: 17px;
     margin-right: 10px;
 }
+
 .box-red-1:hover {
     background-color: red;
 }
 
 /* end-3col-1 -------------------------------------------------------------------------------- */
 
-.img-row-2{
+.div-row1 img {
+    height: 391px;
+}
+
+#div-row2-div {
+    margin-left: 50px;
+}
+
+#div-row2-div div:hover {
+    border: 1px solid black !important;
+    background-color: #c8c9ca5d;
+}
+
+/* end-img-row2 -------------------------------------------------------------------------------- */
+
+.pic img {
+    height: 176px;
     width: 100%;
-    height: 351px;
 }
-
-.img-row-2 div{
-    width: 585px;
-    height: 291px;
+.pic h4{
+    font-weight: 700;
 }
-
