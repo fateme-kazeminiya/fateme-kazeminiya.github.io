@@ -115,3 +115,50 @@ body{
     margin-top: 40px;
 }
 
+.sub-a-1{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 46px;
+    text-transform: uppercase;
+}
+
+.col-4 a:hover {
+    color: #626971;
+}
+
+.box:hover{
+    background-color: black;
+}
+.box:hover .sub-a-1{
+    color: white !important;
+}
+.box-red-1{
+    width: 253px !important;
+    height: 48px !important;
+    background-color: rgb(221,0,49) ;
+}
+.box-red-1 a{
+    line-height: 48px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.box-red-1 i{
+    font-size: 17px;
+    margin-right: 10px;
+}
+.box-red-1:hover {
+    background-color: red;
+}
+
+/* end-3col-1 -------------------------------------------------------------------------------- */
+
+.img-row-2{
+    width: 100%;
+    height: 351px;
+}
+
+.img-row-2 div{
+    width: 585px;
+    height: 291px;
+}
+
