@@ -299,4 +299,7 @@ body {
 .form-control,.form-check-input,.btn{
     border-radius: 0% !important;
 }
+.li1-footer li{
+    list-style-type: none;
+}
 
