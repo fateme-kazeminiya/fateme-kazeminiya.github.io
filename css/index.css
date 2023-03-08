@@ -219,11 +219,23 @@ body {
 }
 
 #row img {
-    /* width: 100%; */
     height: 229px;
 }
 
-/* -----------------------------------------------------------------  */
+#row a{
+    line-height: 43px;
+}
+
+#row div div{
+    transition: all 200ms;
+}
+
+#row div div:hover {
+    border: 2px solid black !important;
+    background-color: #c8c9ca5d;
+}
+
+/* end-img-row3 -------------------------------------------------------------------------------- */
 
 
 .bg1{
@@ -234,3 +246,39 @@ body {
     height: 187px;
     margin-top: -50px;
 }
+
+.bg1 a{
+    line-height: 35px;
+    font-weight: 600;
+}
+
+.bg1 h5{
+    padding:80px;
+}
+
+.bg1 div{
+    height: 40px;
+    width: 200px;
+}
+
+.bg-down{
+    height: 63px;
+    background-color: #e1e1e2;
+    padding: 10px 50px;
+}
+
+.bg-down h6{
+    font-weight: 700;
+}
+
+.bg-down div:hover {
+    color: #626971;
+}
+
+/* end-row -------------------------------------------------------------------------------- */
+
+.div-main {
+    height: 550px;
+    margin-top: -8px;
+}
+
