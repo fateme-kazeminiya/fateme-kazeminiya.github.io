@@ -282,3 +282,12 @@ body {
     margin-top: -8px;
 }
 
+.dropdown{
+    border-bottom: 1px solid white;
+    top: 30px;
+}
+.dropdown-menu{
+    background-color: rgba(0, 0, 0, 0) !important;
+    color: white;
+}
+
