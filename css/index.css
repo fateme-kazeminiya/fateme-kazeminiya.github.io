@@ -291,3 +291,7 @@ body {
     color: white;
 }
 
+.form-control,.form-check-input,.btn{
+    border-radius: 0% !important;
+}
+
