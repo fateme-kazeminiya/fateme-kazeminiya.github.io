@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./backgrandsmall_files/bootstrap-icons.css">
+  <link href="./backgrandsmall_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+  <script src="./backgrandsmall_files/bootstrap.bundle.min.js.download" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./backgrandsmall_files/index.css">
+  <link rel="stylesheet" href="./backgrandsmall_files/indexsmall.css" media="all and (min-width:0) and (max-width: 575px)">
+</head>
+
+<body class="bg-black text-white">
+  <nav class="navbar navbar-expand-lg bg-black">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">AMD<img src="./backgrandsmall_files/amd-header-logo.svg" alt="AMD logo"></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link " aria-current="page" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Products</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Solutions</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Downloads &amp; Support</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Shop</a>
+          </li>
+        </ul>
+        <div class="d-flex">
+          <a class="me-2 icon-nav" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#"><i class="bi bi-globe2"></i></a>
+          <a class="btn-outline-success icon-nav" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#"><i class="bi bi-search"></i></a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+
+
+  <!-- ----------------------------------------------------------------------- -->
+
+
+  <div class=" w-100   div-row1">
+    <img class="w-100" src="./backgrandsmall_files/1_11zon.jpg" alt="">
+    <div class="bg-black bg-opacity-75 text-white  div-row1-div">
+        <h2>together we advance<span class="cursor">_</span>cloud security</h2>
+        <h4>Google Cloud Confidential Computing mit&nbsp;AMD.
+            Sicherheit der Weltklasse, um das Business ohne Performance-Einbußen voranzubringen.</h4>
+        <div class="border border-white border-2 a-Mehr-erfahren"><a class="text-white" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">MEHR ERFAHREN</a>
+        </div>
+    </div>
+</div>
+
+  <!-- ----------------------------------------------------------------------- -->
+
+  
+  <div>
+    <h2 class="featured">Featured Products</h2>
+  </div>
+
+  <!-- ----------------------------------------------------------------------- -->
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-4 col-lg-4">
+        <img class="w-100 mb-3" src="./backgrandsmall_files/box1.avif" alt="">
+        <h4 class="mb-4">Change How You Game</h4>
+        <a class="text-decoration-none mb-4 link1" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">AMD Ryzen™ 7000 Series Desktop Processors</a>
+        <div class="d-flex d-sm-block d-lg-block div-box">
+          <div class="text-center mb-4 mt-4 learn-more"><a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Find Retailers</a></div>
+          <div class="bg-danger text-center mb-4 buy"><a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html">Buy on AMD.com <i class="fs-5 bi bi-cart3"></i></a></div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-4 col-lg-4 ">
+        <img class="w-100 mb-3" src="./backgrandsmall_files/computer.avif" alt="">
+        <h4 class="mb-4">Play It All with Ryzen™ and Radeon™</h4>
+        <p class="mb-4">Browse preconfigured systems from our partners.</p>
+        <div class="text-center mb-4 mt-4 learn-more"><a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Learn More</a></div>
+      </div>
+      <div class="col-12 col-sm-4 col-lg-4 ">
+        <img class="w-100 mb-3" src="./backgrandsmall_files/box2.avif" alt="">
+        <h4 class="mb-4">Breakthrough Performance</h4>
+        <a class="text-decoration-none mb-4 link1" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">AMD Radeon™ RX 7000 Series graphics cards</a>
+        <div class="d-flex d-sm-block d-lg-block div-box ">
+          <div class="text-center mb-4 mt-4 learn-more"><a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Find Retailers</a></div>
+          <div class="bg-danger text-center mb-4 buy"><a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html">Buy on AMD.com <i class="fs-5 bi bi-cart3"></i></a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ----------------------------------------------------------------------- -->
+
+  <div class="featured">
+    <h2>Featured Solutions</h2>
+  </div>
+
+  <!-- ----------------------------------------------------------------------- -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <div id="carouselExampleDark" class="carousel carousel-dark slide">
+       
+        <div class="carousel-inner ">
+          <div class="carousel-item active col-12 col-sm-8 col-md-7 col-lg-6 col-xl-5" data-bs-interval="10000">
+            <!-- <img src="images/1car.jpg" class="d-block" alt="..."> -->
+            <picture>
+              <source class="pic-center" media="(max-width:575px)" srcset="images/2carsmall.webp">
+              <source class="pic-center" media="(max-width:1199px)" srcset="">
+              <img src="./backgrandsmall_files/1car.jpg" alt="pic1">
+            </picture>
+            <div class="carousel-caption d-md-block">
+              <h5 class="text-white fw-bold mb-4">Automotive</h5>
+              <p class="text-white">Powering next-generation automotive systems for<br>
+                 automated driving, electrification, networking, and<br> in-vehicle experience.</p>
+              <a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Learn More <i class="bi bi-chevron-right"></i></a>
+            </div>
+          </div>
+          <div class="carousel-item col-12 col-sm-8 col-md-7 col-lg-6 col-xl-5" data-bs-interval="2000">
+            <!-- <img src="images/2car.jpg" class="d-block" alt="..."> -->
+            <picture>
+              <source class="pic-center" media="(max-width:575px)" srcset="images/3carsmall.webp">
+              <source class="pic-center" media="(max-width:1199px)" srcset="">
+              <img src="./backgrandsmall_files/2car.jpg" alt="pic2">
+            </picture>
+            <div class="carousel-caption d-md-block">
+              <h5 class="text-white fw-bold mb-4">Supercomputing and HPC</h5>
+              <p class="text-white">Helping scientists, researchers, and engineers <br>
+                 discover solutions to the world’s most complex <br> challenges.</p>
+              <a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Learn More <i class="bi bi-chevron-right"></i></a>
+            </div>
+          </div>
+          <div class="carousel-item col-12 col-sm-8 col-md-7 col-lg-6 col-xl-5">
+            <!-- <img src="images/3car.jpg" class="d-block" alt="..."> -->
+            <picture>
+              <source class="pic-center" media="(max-width:575px)" srcset="images/4carsmall.webp">
+              <source class="pic-center" media="(max-width:1199px)" srcset="">
+              <img src="./backgrandsmall_files/3car.jpg" alt="pic3">
+            </picture>
+            <div class="carousel-caption d-md-block">
+              <h5 class="text-white fw-bold mb-4">Networking &amp; Telco</h5>
+              <p class="text-white">Exceptional efficiency, flexibility, and security <br>
+                 features for 5G deployment success.</p>
+              <a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Learn More <i class="bi bi-chevron-right"></i></a>
+            </div>
+          </div>
+          <div class="carousel-item col-12 col-sm-8 col-md-7 col-lg-6 col-xl-5">
+            <!-- <img src="images/acar.jpg" class="d-block" alt="..."> -->
+            <picture>
+              <source class="pic-center" media="(max-width:575px)" srcset="images/1carsmall.webp">
+              <source class="pic-center" media="(max-width:1199px)" srcset="">
+              <img src="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/images/4car.jpg" alt="pic4">
+            </picture>
+            <div class="carousel-caption d-md-block">
+              <h5 class="text-white fw-bold mb-4">Adaptive Computing in Robotics</h5>
+              <p class="text-white">Modular platforms for multi-axis, vision-guided, and <br>
+                 safety-enabled intelligent robotics.</p>
+              <a class="text-white text-decoration-none" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Learn More <i class="bi bi-chevron-right"></i></a>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev bg-secondary text-white controls" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next bg-secondary text-white controls" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+          <span class="carousel-control-next-icon text-white" aria-hidden="true"></span>
+          <span class="visually-hidden text-white">Next</span>
+        </button>
+
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active bg-secondary div-button" aria-current="true" aria-label="Slide 1"><div class="div-hover">Automotive</div></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2" class="bg-secondary div-button"><div class="div-hover"></div><h5 class="text-white">Supercomputing and HPC</h5></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3" class="bg-secondary div-button"><div class="div-hover">Networking &amp; Telco</div></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4" class="bg-secondary div-button"><div class="div-hover">Adaptive Computing in Robotics</div></button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
+
+<!-- ----------------------------------------------------------------------- -->
+
+<div class="div-attachment">
+  <div class=" d-flex flex-column align-items-center">
+    <h2>together we advance<span class="cursor">_</span></h2>
+    <p>AMD is pushing the limits of innovation to tackle some of the world’s <br> toughest challenges with our partners.</p>
+    <div class="more"><a class="text-white text-decoration-none fw-bold" href="file:///C:/Users/haghighi/Desktop/amd/amd-site.github.io/index.html#">Learn More</a></div></div>
+</div>
+
+
+</body></html>

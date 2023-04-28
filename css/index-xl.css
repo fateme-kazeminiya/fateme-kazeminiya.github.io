@@ -1,0 +1,244 @@
+
+/* navbar ------------------------------------------ */
+
+
+.nav-bar {
+    height: 80px;
+}
+
+/* carousel slide ---------------------------------- */
+
+
+
+.div-row1-div {
+    width: 40%;
+    height: 35vh;
+    margin-left: 2%;
+    margin-top: 10vh;
+    padding: 4px 10px;
+    background-color: rgba(0, 0, 0, 0.436);
+}
+
+.div-row1-div h2 {
+    font-weight: 600;
+    font-size: calc(19px + 1vw);
+}
+
+.div-row1-div h4 {
+    font-size: calc(9px + 1vw);
+}
+
+
+.a-Mehr-erfahren {
+    width: 190px;
+    height: 46px;
+    margin-top: 6%;
+    text-align: center;
+}
+
+.a-Mehr-erfahren a {
+    line-height: 5vh;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    width: 200px;
+}
+
+/* ------------------------------------------------------------------------ */
+
+.featured {
+    margin: 600px auto 10px 200px;
+    width: 50%;
+}
+
+/* ------------------------------------------------------------------------- */
+
+
+.learn-more {
+    width: 192px;
+    height: 57px;
+    display: block;
+}
+
+.div-box {
+    width: 80%;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.learn-more a {
+    line-height: 54px;
+}
+
+.buy {
+    margin-top: 25px;
+}
+
+.buy a {
+    line-height: 50px;
+}
+
+/* ----------------------------------------------------------------------- */
+
+#featured {
+    margin-top: 200px !important;
+    width: 30% !important;
+    margin-left: 50px;
+}
+
+/* slider ---------------------------------------------------------------- */
+
+.controls {
+    width: 50px;
+}
+
+.pic-center {
+    width: 90% !important;
+}
+
+.div-text-pic {
+    margin-left: -90px;
+    top: 15%;
+}
+
+.pic-h {
+    width: 100%;
+}
+
+.div-hover-text {
+    text-align: left;
+}
+
+.div-button-top {
+    width: 100%;
+    height: 200px;
+    top: 110% !important;
+    left: -234px !important;
+}
+
+.div-button {
+    width: 225px !important;
+    height: 150px !important;
+    background-color: rgb(6, 6, 6) !important;
+    border: 2px solid rgb(240, 240, 240) !important;
+    margin-left: 30px !important;
+}
+
+/* div-attachment --------------------------------------------------------------------- */
+
+.div-attachment {
+    height: 50vw;
+    margin-top: 250px;
+}
+
+.div-attachment h1 {
+    margin-top: 250px;
+}
+
+/* --------------------------------------------------------------------------------------- */
+
+.image1,
+.image2 {
+    height: calc(100vh - 30vw);
+}
+
+.div-4pic-text p {
+    width: 50% !important;
+}
+
+.lg-m {
+    margin-top: 17% !important;
+}
+
+.div-btn {
+    width: 250px;
+    height: 55px;
+}
+
+.div-btn a {
+    line-height: 52px;
+}
+
+.box1 {
+    margin-top: 145px !important;
+}
+
+.box2 {
+    margin-top: 90px !important;
+}
+
+/* --------------------------------------------------------------------------------------- */
+
+.text-flex {
+    margin-left: 60px !important;
+}
+
+.text-flex a {
+    margin-left: 75%;
+}
+
+
+/* --------------------------------------------------------------------------------------- */
+
+.h-text {
+    height: calc(100vh - 35vw);
+}
+
+/* footer --------------------------------------------------------------------------------------- */
+
+.dropdown-footer {
+    width: 100%;
+    text-align: left;
+    margin-left: -5vw;
+}
+
+.ul-icon {
+    margin-left: 100px !important;
+    padding-top: 55px;
+}
+
+.li-icon {
+    margin-left: 25px !important;
+}
+
+/* ------------------------------------ */
+
+.title-footer {
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 70px;
+}
+
+.text-footer {
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.426) !important;
+    line-height: 30px;
+    display: block;
+}
+
+.text-footer:hover {
+    text-decoration: underline !important;
+    color: white !important;
+}
+
+
+/* ---------------------------- */
+
+.div-link-end {
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.link-end {
+    border-right: 1px solid rgba(255, 255, 255, 0.426);
+    padding-right: 6px;
+    padding-left: 6px;
+    font-size: 14px;
+    display: block;
+
+}
+
+.small-menu {
+    display: none;
+}
